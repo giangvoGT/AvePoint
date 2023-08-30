@@ -1,0 +1,11 @@
+numpy
+pandas
+beautifulsoup4
+tqdm
+openai
+chromadb
+langchain
+scikit-learn
+xgboost
+plotly
+jupyter
